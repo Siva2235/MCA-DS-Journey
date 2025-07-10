@@ -1,3 +1,4 @@
-tempurature = float(input())
+temperature = float(input())
 
-print((tempurature * 1.8) + 32 )
+print((temperature * 1.8) + 32 )
+print((temperature * 0))
